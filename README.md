@@ -10,3 +10,10 @@ review_jpa1.zip : 첫번째 최종(dsl 미 적용)
 review_jpa1.zip : 두번째 최종(dsl 적용)
 실습 전 세팅 파일 : befroe_review_execute.zip
 실습 후 세팅 파일 : befroe_review_execute2.zip
+
+
+
+JPA_peek_and_appy.zip
+- 해당 강좌에 사용한 소스코드입니다. 1번 파일은 이론 강의중 사용할 파일이며, 두번째 파일은 라이브코딩으로 코딩한 파일입니다.
+
+
