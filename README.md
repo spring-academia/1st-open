@@ -17,3 +17,6 @@ JPA_peek_and_appy.zip
 - 해당 강좌에 사용한 소스코드입니다. 1번 파일은 이론 강의중 사용할 파일이며, 두번째 파일은 라이브코딩으로 코딩한 파일입니다.
 
 
+## Spring Security 강의 실습 파일
+- security-master.zip은 Spring Security를 활용함 MFA 구현 소스
+- openstack-app-master.zip은 Spring Security를 활용한 OpenStack 연동
