@@ -26,4 +26,4 @@ JPA_peek_and_appy.zip
 
 <br>
 
-![file_structure](./file_structure.png)
+![file_structure](./file_structure1.png)
