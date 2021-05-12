@@ -26,16 +26,4 @@ JPA_peek_and_appy.zip
 
 <br>
 
-| 강사님 | 강의명                                                              | 깃헙                      | 로컬                   | 파일 설명                  | 비고                              |
-| ------ | ------------------------------------------------------------------- | ------------------------- | ---------------------- | -------------------------- | --------------------------------- |
-| 배진호 | Spring Boot JPA 기술 이해 및 성능 최적화                            | review_jpa1.zip           |                        | 실습1,2 (dsl 미적용)       |                                   |
-|        |                                                                     | before_jpa_review.zip     |                        | 실습1,2 - 실습 전 세팅파일 |                                   |
-|        |                                                                     | before_review_execute.zip |                        | 실습1,2 - 실습 후 세팅파일 |                                   |
-|        |                                                                     |                           | review_jpa2            | 실습3 (dsl 적용)           |                                   |
-|        |                                                                     | before_review_execute.zip |                        | 실습3 - 실습 전 세팅파일   | 실습1,2 - 실습 후 세팅파일과 동일 |
-|        |                                                                     |                           | before_review_execute2 | 실습3 - 실습 후 세팅파일   |                                   |
-| 우민식 | Spring Boot JPA peek&apply                                          | JPA_peek_and_apply.zip    |                        |                            |                                   |
-| 박현도 | Spring Boot에서 flyway 데이터베이스 마이그레이션 관리 도구 사용하기 | springboot-flyway         |                        |                            |
-| 최진욱 | Spring Security 인증 커스텀을 통한 서비스 구축                      | openstack-app-master.zip  |                        |                            |                                   |
-| 최진욱 | Spring Security 를 통한 MFA 구현                                    | security-master.zip       |                        |                            |                                   |
-| 홍현규 | Spring Batch를 활용한 데이터 일괄 처리                              | spring_batch.zip          |                        |                            |                                   |
+![file_structure](./file_structure.png)
