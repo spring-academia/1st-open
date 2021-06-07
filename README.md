@@ -23,8 +23,8 @@ JPA_peek_and_appy.zip
 <br>
 <br>
 
-## 스프링 아카데미아 - 파일 설명
+## 스프링 아카데미아 - 파일 구조 설명
 
 <br>
 
-![file_structure](./file_structure.png)
+![file_structure_](./file_structure.png)
