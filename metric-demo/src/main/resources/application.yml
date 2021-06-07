@@ -1,0 +1,12 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    shutdown:
+      enabled: true
+  metrics:
+    tags:
+      testmode: "OK"
+      company: "fast-campus"
